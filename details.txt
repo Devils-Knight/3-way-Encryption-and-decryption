@@ -1,14 +1,2 @@
-'E:/rahul class/fds/captcha2.jpg'
-
-'E:/rahul class/fds/newcaptcha.png'
-
-'E:/rahul class/fds/embeded.png', 
-
-
-
-E:/z 3rd semester/assignment/FDS/project/fds/captcha2.jpg
-
-E:/z 3rd semester/assignment/FDS/project/fds/newcaptcha.png
-
-E:/z 3rd semester/assignment/FDS/project/fds/embeded.png
-
+#Complete explanation of project.
+later......

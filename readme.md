@@ -1,9 +1,9 @@
 # 3-way-Encryption-and-decryption
 #### This project is divided into 3 parts
 1. Captcha generation
-    * Creating random captcha
-    ![image](image/captcha2.jpg)
-    * Writing the captcha onto the image
+    * Creating random captcha by randomizing alphabets and numbers<br>
+    ![image](image/captcha2.jpg)<br>
+    * Writing the captcha onto the image<br>
     ![image](image/newcaptcha.png)
     * Generating a unique number from captcha to decide the co-ordinates for embedding
 
@@ -14,8 +14,8 @@
 
 3. Embedding
     * Converting the message into ascii format
-    * Storing the message inside the image pixel color(r,g,b)
-    ![image](image/embeded.png)
+    * Storing the message inside the image pixel color(r,g,b)<br>
+    ![image](image/embeded.png)<br>
     As you can see there is no difference b/w the original and embedded image because we only manupilated with last few bits of the color.  
 
 #### For Extracting the message.
